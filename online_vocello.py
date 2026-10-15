@@ -6,7 +6,7 @@
   - サーバ: 黒(先手)。ポート9801で待ち受け
   - クライアント: 白(後手)。入力欄のホストに接続 (既定 127.0.0.1)
 
-使い方:  python3 othello_net.py [接続先ホスト]
+使い方:  python3 online_vocello.py [接続先ホスト]
 """
 import os
 import queue
